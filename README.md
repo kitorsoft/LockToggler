@@ -1,6 +1,6 @@
 # LockToggler
 
-LockToggler is an example of a keyboard hook in C#. It may server as an example for others.
+LockToggler is an example of a keyboard hook in C#. It may serve as an example for others.
 
 The program allows you to define delays for Cap Lock, Scroll Lock, Num Lock, and INS keys. This helps avoiding accidentally hitting such keys.
 
