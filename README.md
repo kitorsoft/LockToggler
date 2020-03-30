@@ -10,4 +10,4 @@ I wrote this as a little excercise and because I wanted the functionality. Learn
 
 No warranty, obviously :-) If you find bugs, I will try to fix them when I have time.
 
-If you d not want to build the tool from code, you can download the executable here: https://github.com/kitorsoft/LockToggler/releases/download/1.0/LockToggler.exe
+If you do not want to build the tool from code, you can download the executable here: https://github.com/kitorsoft/LockToggler/releases/download/1.0/LockToggler.exe
